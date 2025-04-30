@@ -1,6 +1,6 @@
 # Hospital_emergency_-room_analysis_project
 
----------------------------------------------------------------------------Hospital Emergency Room Analysis--------------------------------------------------------------------------------
+ -------------------------------------------------------Hospital Emergency Room Analysis----------------------------------------------------------------
 
 This project analyzes emergency room (ER) data to identify trends, bottlenecks, and insights using *Power BI*. The goal is to support hospital administrators in improving efficiency and patient care.
 
